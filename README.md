@@ -3,9 +3,18 @@
 
 ![java](https://user-images.githubusercontent.com/103947996/179530938-bd4e9fce-cabc-47f2-bf04-e03f9b479e8a.JPG)
 
-Repositorio para Imersão de Java
-
 Este repositório conterá o código das aulas do curso de Java OO: Entendendo a Orientação a Objetos.
 
+- Domine o paradigma de programação mais usado no mercado de trabalho;
+- Entenda o que são referências e objetos;
+- Use atributos, métodos da instancia e da classe;
+- Define objetos através de construtores;
+- Aprenda sobre encapsulamento;
+
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="40" height="40" />
+          
+          
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVIDO&color=GREEN&style=for-the-badge)
