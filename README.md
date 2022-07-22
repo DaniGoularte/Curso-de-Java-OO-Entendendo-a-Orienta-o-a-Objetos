@@ -10,10 +10,6 @@ Este repositório conterá o código das aulas do curso de Java OO: Entendendo a
 - Use atributos, métodos da instancia e da classe;
 - Define objetos através de construtores;
 - Aprenda sobre encapsulamento;
-
-### Ferramentas e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="40" height="40" />
           
           
 
