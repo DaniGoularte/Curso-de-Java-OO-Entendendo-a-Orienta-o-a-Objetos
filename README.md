@@ -8,4 +8,4 @@ Repositorio para Imersão de Java
 Este repositório conterá o código das aulas do curso de Java OO: Entendendo a Orientação a Objetos.
 
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVIVO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVIDO&color=GREEN&style=for-the-badge)
